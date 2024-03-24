@@ -5,4 +5,14 @@
 
 >Aula03_gabriel Exercicios1, Exercicios2 e Exercicios3
 [3-Exercícios.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/14546578/3-Exercicios.pdf)
+>
 ![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/1fc5dd7c-75cb-4726-b646-4305575e81cb)
+
+>Aula04_gabriel Exercicios1, Exercicios2 e Exercicios3
+[4-Exercícios.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/14734186/4-Exercicios.pdf)
+
+>![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/1fc5dd7c-75cb-4726-b646-4305575e81cb)
+![3c1a2ad7-9d42-4bc8-b54a-7072af9beeac](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/5d24ef27-2a31-47b1-bcbb-63ed889b9234)
+![85a7232a-29f1-4694-9f42-3c33139790cd](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/d5495ea9-2ad1-437e-8121-e238353f4ba1)
+![fa8f67dc-95d6-4f6e-9f99-87d69bc8ccbc](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/a0ad5cb0-2023-446b-ad2a-d44fd24f1f69)
+![1c51f824-538e-4972-8bc5-a5d29b9bb7e7](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/06bbdc7b-8159-46d2-a9bc-3c8de70db9f2)
