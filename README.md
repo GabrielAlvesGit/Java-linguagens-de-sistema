@@ -25,3 +25,18 @@
 
 ![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/24eebbda-6cb9-4386-a91a-55f9ff357a2d)
 
+>Aula06_gabriel
+* Faça uma aplicação para uma loja virtual de produtos de informática usando os
+conceitos de separação em camadas (Controllers e Views) e de gerenciamento de sessões e
+cookies apresentados em aula. A aplicação deve apresentar na página inicial quatro produtos
+para compra. Cada produto deve ter uma imagem, uma descrição, um preço e um checkbox
+Comprar.
+[6-Exercícios.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/14891281/6-Exercicios.pdf)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/0d640c00-b984-4442-80f0-a3c40888926d)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/cb231655-abc3-4143-ae51-61f3b581fe3d)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/73ce37d9-be76-4d12-8ce8-1e467b251266)
+
+
