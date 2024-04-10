@@ -40,3 +40,11 @@ Comprar.
 ![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/73ce37d9-be76-4d12-8ce8-1e467b251266)
 
 
+>Aula07_gabriel
+* Faça uma aplicação Java, similar à apresentada na aula, para manter o cadastro
+de estudantes de uma universidade em um banco de dados MySQL. Ao ser executada, a
+aplicação deve inserir pelo menos três estudantes como carga inicial de dados.
+[7-Exercícios.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/14926059/7-Exercicios.pdf)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/3f7c2ecd-6296-4168-810e-5096937295ff)
+
