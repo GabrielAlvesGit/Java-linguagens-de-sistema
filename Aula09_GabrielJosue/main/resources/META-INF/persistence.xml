@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence 
+                                 http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+
+    <persistence-unit name="EstudantePu">
+        <properties>
+            <!-- URL de conexão com o banco de dados -->
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/livraria?createDatabaseIfNotExist=true&amp;useTimezone=true&amp;serverTimezone=UTC"/>
+            
+            <!-- Driver JDBC para MySQL -->
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+            
+            <!-- Nome de usuário e senha para acesso ao banco de dados -->
+            <property name="javax.persistence.jdbc.user" value="root"/>
+            <property name="javax.persistence.jdbc.password" value="1q2w3e4r"/>
+            
+            <!-- Ação a ser tomada pelo esquema do banco de dados -->
+            <!--  <property name="javax.persistence.schema-generation.database.action" value="create"/>-->
+            
+            <!-- Script SQL para carregar dados iniciais -->
+            <!--<property name="javax.persistence.sql-load-script-source" value="META-INF/dadosIniciais.sql"/>-->
+            
+            <!-- Dialeto do Hibernate para MySQL 8 -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect"/>
+            
+            <!-- Mostrar SQL gerado -->
+            <property name="hibernate.show_sql" value="true"/>
+            
+            <!-- Formatar SQL gerado -->
+            <property name="hibernate.format_sql" value="true"/>
+            
+            <!-- Opções adicionais, se necessário -->
+            <!-- <property name="hibernate.hbm2ddl.auto" value="update"/> -->
+            <!-- <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>--> 
+        </properties>
+    </persistence-unit>
+
+</persistence>
