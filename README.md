@@ -48,3 +48,33 @@ aplicação deve inserir pelo menos três estudantes como carga inicial de dados
 
 ![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/3f7c2ecd-6296-4168-810e-5096937295ff)
 
+
+
+>Aula08_gabriel
+* Dando continuidade à aplicação Java da aula passada, para manter o cadastro
+de estudantes de uma universidade, crie a classe EstudanteController e empregue os recursos
+da JPA para implementar métodos referentes às operações de: inserção, consulta, consulta
+por id, alteração e exclusão de estudantes no banco de dados MySQL. Implemente também as
+classes que definirão as views da aplicação: InsereEstudante, ConsultaEstudante,
+ConsultaEstudantePorId, AlteraEstudante, ExcluiEstudante e Index
+[8-Exercicios.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/15283531/8-Exercicios.pdf)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/43172f96-6f9a-45a4-b5bb-38ba6aafa1ab)
+
+
+
+>Aula09_gabriel
+* Use a aplicação de cadastro de estudantes para replicar os oito exemplos apresentados em aula, os quais ilustram os mapeamentos dos diferentes tipos de relacionamentos. Estes relacionamentos deverão ocorrer entre as entidades Estudante e Curso, sendo que um curso deve ter as informações de id, descricao e carga horária
+[9-Exercícios.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/15283532/9-Exercicios.pdf)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/bfea7eeb-e825-4085-ba94-69799d9fe241)
+
+
+>Aula10_gabriel
+* Faça uma aplicação Java Web, similar à apresentada na aula, para manter o
+cadastro de estudantes de uma universidade em um banco de dados MySQL. Ao ser
+executada, a aplicação deve inserir pelo menos três estudantes como carga inicial de dados.
+[10-Exercícios.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/15283545/10-Exercicios.pdf)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/ad764ade-9b98-4925-b094-4bbce7a00fd1)
+
