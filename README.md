@@ -78,3 +78,12 @@ executada, a aplicação deve inserir pelo menos três estudantes como carga ini
 
 ![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/ad764ade-9b98-4925-b094-4bbce7a00fd1)
 
+
+>Aula12a_gabriel(lp2-aila12a)
+* Analise e implemente os projetos Spring Boot dos Exemplos 1 e 2 apresentados em aul.
+
+[12-Desenvolvimento de Aplicações Web com Spring Boot.pdf](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/files/15396652/12-Desenvolvimento.de.Aplicacoes.Web.com.Spring.Boot.pdf)
+
+![image](https://github.com/GabrielAlvesGit/Java-linguagens-de-sistema/assets/102634725/226cdbbc-7adf-4b54-9f46-b631fd571a91)
+
+
